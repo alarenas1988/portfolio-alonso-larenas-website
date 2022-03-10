@@ -26,7 +26,7 @@ const Portfolio = () => {
               GitHub
             </a>
             <a
-              href="https://alonso-larenas.cl/"
+              href="https://portfolio.alonso-larenas.cl"
               className="btn btn-primary"
               target="_blank"
             >
